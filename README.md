@@ -38,10 +38,26 @@ After installation, follow these steps to use the Task Manager:
 
 2. Run the task_manager.py file.
 
-3. Follow the prompts to register a new user, add tasks, view all tasks, view tasks assigned to you, and generate reports (admin-only).
-## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+3. A login section will appear. Enter the details below:
+ <img width="200" alt="Screenshot 2024-03-18 at 11 34 11" src="https://github.com/dominiquette/finalCapstone/assets/119539825/d6724e7a-80a1-475e-934f-dd7bb26b4f61">
+
+
+4. Follow the prompts to register a new user, add tasks, view all tasks, view tasks assigned to you, and generate reports (admin-only).
+<img width="299" alt="Screenshot 2024-03-18 at 11 34 18" src="https://github.com/dominiquette/finalCapstone/assets/119539825/a1aa710c-bfaf-45cc-b1c5-5c01189c15b9">
+
+
+5. To add a task, look at the example below:
+<img width="291" alt="Screenshot 2024-03-18 at 11 40 59" src="https://github.com/dominiquette/finalCapstone/assets/119539825/226195ed-5849-4d7e-803a-7c5adbec8fcc">
+
+6. When you select generate reports, It will show below:
+<img width="204" alt="Screenshot 2024-03-18 at 11 44 41" src="https://github.com/dominiquette/finalCapstone/assets/119539825/ff61692e-195b-4551-8079-534f418d8a83">
+
+7. Two files will be created to generate the reports.
+<img width="285" alt="Screenshot 2024-03-18 at 11 44 57" src="https://github.com/dominiquette/finalCapstone/assets/119539825/2743a8f3-13f7-46d7-b214-4a726749b9a9">
+
+
+<img width="274" alt="Screenshot 2024-03-18 at 11 45 05" src="https://github.com/dominiquette/finalCapstone/assets/119539825/dd4026ef-8733-444b-a40b-6c08f393d682">
 
 
 ## Notes
