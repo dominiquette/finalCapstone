@@ -1,14 +1,66 @@
+
 # Task Manager
 
-This project served as my final capstone during my tenure at the HyperionDev bootcamp. The task involved working with the 'original_task_manager.py' file, which was the original code I needed to correct and enhance. The result of my efforts is the 'task_manager.py,' representing the final version after updates and corrections.
+## Description
+This project serves as the final capstone for the HyperionDev bootcamp. The aim was to refine and extend the functionality of a basic task management system originally implemented in 'original_task_manager.py'. The resulting application, 'task_manager.py', represents the enhanced and corrected version.
 
-The primary objective of this project was to utilize lists or dictionaries and functions to expand the capabilities of a basic task management system. The program was specifically crafted for small businesses, aiding in the management of tasks assigned to team members. The core focus was on evaluating my ability to refactor code — a process aimed at simplifying the code structure and enhancing team code readability, preventing challenges for other developers in understanding the code.
+## Objective
+The primary goal of this project was to leverage lists, dictionaries, and functions to augment the capabilities of a rudimentary task management system. Designed with small businesses in mind, the program facilitates task assignment and monitoring within a team. The focal point was on code refactoring, aimed at streamlining the code structure and improving readability to ease comprehension for other developers.
 
-Prior to commencing the work, it was crucial to ensure the correctness, formatting, and readability of the code. This involved:
 
-1. Identifying and rectifying all syntax, runtime, and logical errors in the code.
-2. Organizing the code into modular functions, each performing specific units of work.
-3. Enhancing code readability by incorporating comments, using descriptive variable names, and implementing effective whitespace and indentation.
-4. Striving for code efficiency by choosing optimal writing styles for solving the specified problem.
-5. Ensuring that the program's output is user-friendly, with clear labeling of all data presented to the user — be it in text files or on the screen. This emphasis on readability and user-friendliness was illustrated through comparisons of output readability in provided images, highlighting the impact of spacing and labeling on user experience.
- 
+
+## Installation
+
+To install and run the Task Manager locally, follow these steps:
+
+1. Clone the repository to your local machine:
+```bash
+git clone git@github.com:dominiquette/finalCapstone.git
+
+```
+2. Navigate to the project directory:
+```bash
+cd finalCapstone
+
+```  
+
+3. Ensure you have Python installed. 
+
+4. Open the project folder in your preferred IDE or text editor.
+
+## Usage
+
+
+
+After installation, follow these steps to use the Task Manager:
+
+1. Open the project folder in your IDE or text editor.
+
+2. Run the task_manager.py file.
+
+3. Follow the prompts to register a new user, add tasks, view all tasks, view tasks assigned to you, and generate reports (admin-only).
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+## Notes
+
+1. Ensure the entire project folder is opened in VS Code to prevent path-related issues.
+2. Admin access is restricted and requires authentication using the provided credentials.
+3. The application encompasses various functionalities accessible through intuitive menu options.
+
+
+## Credits
+
+- [HyperionDev:](https://www.hyperiondev.com/) Provided the original program 'original_task_manager' to fix.
+
+- [Dominique:](https://github.com/dominiquette) 
+    
+    * Fixed syntax errors, runtime issues, and logical inconsistencies in the original codebase.
+
+    * Implemented enhancements to improve code readability,        modularity, and user experience.
+
+    * Added new features such as user registration, task management functionalities, and report generation.
+
+    * Conducted thorough testing and debugging to ensure the reliability and stability of the Task Manager application.
